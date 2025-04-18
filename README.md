@@ -1,9 +1,9 @@
-# 艾尔莎按钮
+# 黎歌Neeko按钮
 
 ### 贡献方法
 新增可以直接PR
 
-或发送邮件至 i@rce.moe
+或发送邮件至 ligeneeko@qq.com
 
 ### CREDIT
 
