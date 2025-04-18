@@ -48,5 +48,24 @@
       "en-US": "来电铃声"
     },
     "category": "名言"
+  },
+    {
+    "name": "无敌",
+    "path": "无敌.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "无敌",
+      "en-US": "无敌"
+    },
+    "category": "怪叫"
+  },  {
+    "name": "f**k",
+    "path": "f..k.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "f**k",
+      "en-US": "f**k"
+    },
+    "category": "怪叫"
   }
 ]
