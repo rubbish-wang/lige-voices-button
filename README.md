@@ -1,5 +1,7 @@
 # 黎歌Neeko按钮
 
+本项目FORK于https://elza.moe/，初次操作请见谅
+
 ### 贡献方法
 新增可以直接PR
 
