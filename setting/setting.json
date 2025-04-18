@@ -3,11 +3,11 @@
   "neko_mimi": true,
   "name": {
     "CN": {
-      "title": "艾尔莎按钮",
+      "title": "黎歌Neeko按钮",
       "fullName": ""
     },
     "EN": {
-      "title": "艾尔莎按钮",
+      "title": "黎歌Neeko按钮",
       "fullName": ""
     }
   },
@@ -16,11 +16,15 @@
     "icon": "favicon.png",
     "youtube": "",
     "twitter": "",
-    "bilibili": "https://space.bilibili.com/1521415/"
+    "bilibili": "https://space.bilibili.com/671538942"
   },
   "related": [],
   "link": [
     {
+      "name": "大白猫按钮",
+      "url": "https://elza.moe/",
+      "background": "#F5C1BB"
+    },{
       "name": "Hiiro按钮",
       "url": "https://hiiro.club/",
       "background": "#F5C1BB"
@@ -34,17 +38,17 @@
   "footer": {
     "author": [
       {
-        "name": "橙子酱",
-        "url": "https://space.bilibili.com/32890488"
+        "name": "冰封",
+        "url": "https://space.bilibili.com/37819318"
       }
     ],
     "info": [
       ""
     ],
-    "githubUrl": "https://github.com/dashorange/elsa-voices-button"
+    "githubUrl": "https://github.com/rubbish-wang/lige-voices-button"
   },
   "console": {
-    "text": "https://github.com/dashorange/elsa-voices-button",
+    "text": "https://github.com/rubbish-wang/lige-voices-button",
     "size": "",
     "color": "",
     "img": "",
