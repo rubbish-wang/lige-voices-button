@@ -2,15 +2,15 @@
   {
     "name": "名言",
     "translate": {
-      "zh-CN": "猫猫名言~",
+      "zh-CN": "名言~",
       "en-US": "Witticisms~"
     }
   },
   {
-  "name": "猫叫",
+  "name": "怪叫",
   "translate": {
-    "zh-CN": "猫叫~",
-    "en-US": "miao~"
+    "zh-CN": "怪叫~",
+    "en-US": "怪叫~"
   }
 }
 ,
