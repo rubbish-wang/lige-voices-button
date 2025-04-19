@@ -58,13 +58,94 @@
       "en-US": "无敌"
     },
     "category": "怪叫"
-  },  {
+  },
+  {
     "name": "f**k",
     "path": "f..k.mp3",
     "date": "2025-04-19",
     "translate": {
       "zh-CN": "f**k",
       "en-US": "f**k"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "快起床",
+    "path": "快起床.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "快起床",
+      "en-US": "快起床"
+    },
+    "category": "怪叫"
+  },
+    {
+    "name": "快起床1",
+    "path": "快起床1.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "快起床1",
+      "en-US": "快起床1"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "防控警报",
+    "path": "防控警报.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "防控警报",
+      "en-US": "防控警报"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "好烦闭嘴给你一拳",
+    "path": "好烦闭嘴给你一拳.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "好烦闭嘴给你一拳",
+      "en-US": "好烦闭嘴给你一拳"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "笑",
+    "path": "笑.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "笑",
+      "en-US": "笑"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "死鬼",
+    "path": "死鬼.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "死鬼",
+      "en-US": "死鬼"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "略略略",
+    "path": "略略略.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "略略略",
+      "en-US": "略略略"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "略略略1",
+    "path": "略略略1.mp3",
+    "date": "2025-04-19",
+    "translate": {
+      "zh-CN": "略略略1",
+      "en-US": "略略略1"
     },
     "category": "怪叫"
   }
