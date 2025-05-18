@@ -148,5 +148,115 @@
       "en-US": "略略略1"
     },
     "category": "怪叫"
+  },
+  {
+    "name": "“猪鸽“",
+    "path": "“猪鸽“.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "猪鸽",
+      "en-US": "猪鸽"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "“哼哼 西内！”",
+    "path": "“哼哼 西内！”.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "“哼哼 西内！”",
+      "en-US": "“哼哼 西内！”"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "【我回来了 发生什么事了",
+    "path": "【我回来了 发生什么事了.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "【我回来了 发生什么事了",
+      "en-US": "【我回来了 发生什么事了"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "emmmmmm",
+    "path": "emmmmmm.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "emmmmmm",
+      "en-US": "emmmmmm"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "八嘎很太无路赛",
+    "path": "八嘎很太无路赛.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "八嘎很太无路赛",
+      "en-US": "八嘎很太无路赛"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "骂骂音声",
+    "path": "骂骂音声.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "骂骂音声",
+      "en-US": "骂骂音声"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "奇怪的声音",
+    "path": "奇怪的声音.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "奇怪的声音",
+      "en-US": "奇怪的声音"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "蚊子叫",
+    "path": "蚊子叫.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "蚊子叫",
+      "en-US": "蚊子叫"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "异世相遇尽享美味",
+    "path": "异世相遇尽享美味.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "异世相遇尽享美味",
+      "en-US": "异世相遇尽享美味"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "自己吓自己~啊~~",
+    "path": "自己吓自己~啊~~.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "自己吓自己~啊~~",
+      "en-US": "自己吓自己~啊~~"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "《如果的事》_MP3",
+    "path": "《如果的事》_MP3.mp3",
+    "date": "2025-05-18",
+    "translate": {
+      "zh-CN": "《如果的事》_MP3",
+      "en-US": "《如果的事》_MP3"
+    },
+    "category": "歌"
   }
 ]
