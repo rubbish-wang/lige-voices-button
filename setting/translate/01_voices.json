@@ -240,6 +240,26 @@
     "category": "怪叫"
   },
   {
+    "name": "喝茶",
+    "path": "喝茶.mp3",
+    "date": "2025-06-09",
+    "translate": {
+      "zh-CN": "喝茶",
+      "en-US": "喝茶"
+    },
+    "category": "怪叫"
+  },
+  {
+    "name": "Ciallo～(∠・ω_ )⌒☆-",
+    "path": "Ciallo～(∠・ω_ )⌒☆-.mp3",
+    "date": "2025-06-09",
+    "translate": {
+      "zh-CN": "Ciallo～(∠・ω_ )⌒☆-",
+      "en-US": "Ciallo～(∠・ω_ )⌒☆-"
+    },
+    "category": "怪叫"
+  },
+  {
     "name": "自己吓自己~啊~~",
     "path": "自己吓自己~啊~~.mp3",
     "date": "2025-05-18",
@@ -254,8 +274,28 @@
     "path": "《如果的事》_MP3.mp3",
     "date": "2025-05-18",
     "translate": {
-      "zh-CN": "《如果的事》_MP3",
-      "en-US": "《如果的事》_MP3"
+      "zh-CN": "《如果的事》",
+      "en-US": "《如果的事》"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "人间至欢",
+    "path": "人间至欢.mp3",
+    "date": "2025-06-09",
+    "translate": {
+      "zh-CN": "人间至欢",
+      "en-US": "人间至欢"
+    },
+    "category": "歌"
+  },
+  {
+    "name": "垫了吗》",
+    "path": "垫了吗.mp3",
+    "date": "2025-06-09",
+    "translate": {
+      "zh-CN": "垫了吗",
+      "en-US": "垫了吗"
     },
     "category": "歌"
   }
